@@ -1,0 +1,10 @@
+h1 {
+    background-color: green;
+}
+
+#layout {
+    border: 1px solid gray;
+  min-width: 10px;
+  min-height: 20px;
+  display: inline-block;
+}
